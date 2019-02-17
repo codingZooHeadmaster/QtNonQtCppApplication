@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Une application C++ non Qt
  * Tout est fait à la création du projet :
  * New File or Project / Projects / Non-Qt Project / Plain C++ Application.
@@ -20,3 +20,6 @@ int main()
     cout << "\nx = " << x << endl;
     return 0;
 }
+
+
+// Now from LMEA
